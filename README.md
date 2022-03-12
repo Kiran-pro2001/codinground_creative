@@ -1,0 +1,2 @@
+# codinground_creative
+In this project, I am just trying to clone some sort of coding platform, which we mostly used for the coding round in a "creative manner". I try to make the UI more interactive. Although, I used only HTML and CSS only. In near future, I am also working to add the IDE into it for live coding and a timer as well.  As a full-stack web developer, I always feel, there should be my own website as well, like GeeksforGeeks and HackerRank. Although, In the near future, I will definitely try to make it as well.
